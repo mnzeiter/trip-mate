@@ -1,20 +1,20 @@
 
-# 🧭 TripMate – Flutter Travel App
+# 🧳 Tourism Manager – Flutter Travel App
 
-A mobile application built with Flutter and Dart to help users explore, plan, and manage their travel experiences with ease.
+A dual-role mobile application built with Flutter and Dart to manage and explore tourism experiences. Designed for both customers and administrators to browse, book, and manage trips efficiently.
 
 ## 🔧 Features
 - Browse popular destinations and travel packages
-- View trip details, images, and pricing
+- View detailed trip information with pricing
+- Register for trips directly from the app
 - Save favorite trips and destinations
 - Responsive UI with smooth animations
-- Multi-language support (optional)
+- Admin dashboard for managing trips and bookings
 
 ## 🛠 Tech Stack
-- Flutter (UI framework)
-- Dart (Programming language)
-- Firebase / SQLite (optional backend or local storage)
-- RESTful API integration (for dynamic trip data)
+- Flutter (UI Framework)
+- Dart (Programming Language)
+- RESTful API integration (Flask and MySql Backend) 
 
 ## 🚀 Usage
 1. Clone the repository
@@ -27,14 +27,13 @@ A mobile application built with Flutter and Dart to help users explore, plan, an
 
 ## 📷 Screenshots
 
-### 🏖️ Home Screen
-![Home](screenshots/home.png)
-
-### 📍 Trip Details
-![Details](screenshots/details.png)
-
 ### 🎬 Demo GIF
 ![Demo](screenshots/demo.gif)
+
+
+### 🧑‍💼 Admin Panel
+![Admin Panel](screenshots/demo.gif)
+
 
 ---
 
@@ -45,4 +44,4 @@ A mobile application built with Flutter and Dart to help users explore, plan, an
 
 ---
 
-✨ A modern travel companion app built with **Flutter & Dart**.
+✨ A modern tourism management app built with **Flutter & Dart**, serving both customers and administrators.
