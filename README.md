@@ -1,17 +1,48 @@
-# e_tourism
 
-A new Flutter project.
+# 🧭 TripMate – Flutter Travel App
 
-## Getting Started
+A mobile application built with Flutter and Dart to help users explore, plan, and manage their travel experiences with ease.
 
-This project is a starting point for a Flutter application.
+## 🔧 Features
+- Browse popular destinations and travel packages
+- View trip details, images, and pricing
+- Save favorite trips and destinations
+- Responsive UI with smooth animations
+- Multi-language support (optional)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- Flutter (UI framework)
+- Dart (Programming language)
+- Firebase / SQLite (optional backend or local storage)
+- RESTful API integration (for dynamic trip data)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Usage
+1. Clone the repository
+2. Run `flutter pub get` to install dependencies
+3. Connect a device or emulator
+4. Run the app:
+   ```bash
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# trip-mate
+## 📷 Screenshots
+
+### 🏖️ Home Screen
+![Home](screenshots/home.png)
+
+### 📍 Trip Details
+![Details](screenshots/details.png)
+
+### 🎬 Demo GIF
+![Demo](screenshots/demo.gif)
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/mozeiter)
+- 🌍 [Portfolio Website](https://mohammadalzeiter.com)
+- 📧 Email: mohammadalzeiter@outlook.com  
+
+---
+
+✨ A modern travel companion app built with **Flutter & Dart**.
