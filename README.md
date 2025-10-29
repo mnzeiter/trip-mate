@@ -1,5 +1,5 @@
 
-# 🧳 Tourism Manager – Flutter Travel App
+# 🧳 TripMate – Flutter Travel App
 
 A dual-role mobile application built with Flutter and Dart to manage and explore tourism experiences. Designed for both customers and administrators to browse, book, and manage trips efficiently.
 
@@ -45,3 +45,4 @@ A dual-role mobile application built with Flutter and Dart to manage and explore
 ---
 
 ✨ A modern tourism management app built with **Flutter & Dart**, serving both customers and administrators.
+
