@@ -27,12 +27,12 @@ A dual-role mobile application built with Flutter and Dart to manage and explore
 
 ## 📷 Screenshots
 
-### 🎬 Demo GIF
-![Demo](screenshots/demo.gif)
+### 🎬 User
+![Demo](screenshots/user.gif)
 
 
 ### 🧑‍💼 Admin Panel
-![Admin Panel](screenshots/demo.gif)
+![Admin Panel](screenshots/admin.gif)
 
 
 ---
@@ -45,4 +45,5 @@ A dual-role mobile application built with Flutter and Dart to manage and explore
 ---
 
 ✨ A modern tourism management app built with **Flutter & Dart**, serving both customers and administrators.
+
 
