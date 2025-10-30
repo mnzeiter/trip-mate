@@ -28,6 +28,7 @@ A dual-role mobile application built with Flutter and Dart to manage and explore
 ## 📷 Screenshots
 
 ### 🧭 Explore & Book
+
 ![Demo](screenshots/user.gif)
 
 
@@ -49,6 +50,7 @@ A dual-role mobile application built with Flutter and Dart to manage and explore
 ---
 
 ✨ A modern tourism management app built with **Flutter & Dart**, serving both customers and administrators.
+
 
 
 
